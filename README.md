@@ -1,2 +1,4 @@
 # HelloWorld
-my first github repository
+#my first github repository
+
+print("HelloWorld!")
